@@ -1,0 +1,6 @@
+﻿  Lab3.cpp
+c:\users\vincent ha\documents\visual studio 2017\projects\lab3\lab3\lab3.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\vincent ha\documents\visual studio 2017\projects\lab3\lab3\lab3.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\vincent ha\documents\visual studio 2017\projects\lab3\lab3\lab3.cpp(241): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Vincent Ha\Documents\Visual Studio 2017\Projects\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\Vincent Ha\Documents\Visual Studio 2017\Projects\Lab3\Debug\Lab3.pdb (Partial PDB)
